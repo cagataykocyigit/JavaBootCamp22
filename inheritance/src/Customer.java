@@ -1,6 +1,4 @@
-public class Customer {
-    int id ;
-    String lastName;
-    int age;
+public class Customer extends Person {
+
     String email;
 }
