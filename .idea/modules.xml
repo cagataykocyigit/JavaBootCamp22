@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaBootCamp22.iml" filepath="$PROJECT_DIR$/JavaBootCamp22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReCapDemo_Classes/ReCapDemo_Classes.iml" filepath="$PROJECT_DIR$/ReCapDemo_Classes/ReCapDemo_Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classes/classes.iml" filepath="$PROJECT_DIR$/classes/classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" filepath="$PROJECT_DIR$/classesWithAttributes/classesWithAttributes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/inheritance/inheritance.iml" filepath="$PROJECT_DIR$/inheritance/inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/method2/method2.iml" filepath="$PROJECT_DIR$/method2/method2.iml" />
     </modules>
   </component>
 </project>
